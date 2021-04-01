@@ -2,4 +2,4 @@
 
 Projeto flutter utilizando API pública do Giphy
 
-"# Gifie" 
+## O aplicativo está funcionando e publicado na Google Play ##
